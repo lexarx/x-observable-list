@@ -1,0 +1,16 @@
+{
+	"name": "x-observable-list",
+	"version": "1.0.0",
+	"description": "Observable list class.",
+	"keywords": [
+		"list", "array", "observable"
+	],
+	"author": "Alexey Nichiporchik",
+	"bugs": "https://github.com/lexarx/x-observable-list/issues",
+	"license": "MIT",
+	"main": "observable-list.js",
+	"repository": "lexarx/x-observable-list",
+	"dependencies": {
+		"x-event": "^1.0.0"
+	}
+}
